@@ -1,6 +1,6 @@
 # Analyze the types of mutational reads and amino acid substitutions
 #
-#The python code is referred to one published paper.
+#The python code is referred to one published paper.\
 #It defines several functions, which includes init_dict(path), 
 get_aa_mode(in_str, dictry), 
 get_diff_type(str_0,str_i,str_l,alignment=0), 
